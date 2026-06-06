@@ -1,0 +1,14 @@
+# Ignore common executable binaries and build outputs
+# Executables and temporary binary artifacts
+*.exe
+*.out
+*.o
+a.out
+*.bin
+*.elf
+*.app
+
+# Build directories
+/build/
+/dist/
+/target/
